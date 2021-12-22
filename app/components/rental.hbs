@@ -10,24 +10,13 @@
       </LinkTo>
     </h3>
     <div class="detail owner">
-      <span>Owner:</span> {{@rental.owner}}
-    </div>
-    <div class="detail type">
-      <span>Type:</span> {{@rental.type}}
+      <span>Department:</span> {{@rental.owner}}
     </div>
     <div class="detail location">
-      <span>Location:</span> {{@rental.city}}
+      <span>Office:</span> {{@rental.city}}
     </div>
     <div class="detail bedrooms">
-      <span>Number of bedrooms:</span> {{@rental.bedrooms}}
+      <span>Position:</span> {{@rental.bedrooms}}
     </div>
   </div>
-  <Map
-    @lat={{@rental.location.lat}}
-    @lng={{@rental.location.lng}}
-    @zoom="9"
-    @width="150"
-    @height="150"
-    alt="A map of {{@rental.title}}"
-  />
 </article>

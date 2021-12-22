@@ -355,7 +355,7 @@ p {
 }
 
 .rental.detailed .image {
-  flex-basis: 320px;
+  flex-basis: 160px;
 }
 
 .rental.detailed .image.large {
@@ -448,16 +448,18 @@ p {
 }
 
 .tomster {
-  background: url(../assets/images/teaching-tomster.png);
+  background: url(../assets/images/Logo.png);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 300px;
 
   position: relative;
   top: -25px;
 }
-
+.jumbo{
+	background-color: rgb(243,237,232);
+}
 .screen-reader{
   position: absolute;
   overflow: hidden;

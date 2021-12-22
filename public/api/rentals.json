@@ -4,51 +4,54 @@
       "type": "rentals",
       "id": "grand-old-mansion",
       "attributes": {
-        "title": "Grand Old Mansion",
-        "owner": "Veruca Salt",
-        "city": "San Francisco",
+        "title": "Dr. Ahmed Hamad AlWahoush",
+        "owner": "HR and Finanace",
+        "city": "418",
         "location": {
           "lat": 37.7749,
           "lng": -122.4194
         },
         "category": "Estate",
-        "bedrooms": 15,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
-        "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests."
+        "bedrooms": "Head Computer Services",
+        "image": "../assets/images/empty.png",
+        "email": "wahoush@lloc.gov.bh",
+        "officenumber": 17518044
       }
     },
     {
       "type": "rentals",
       "id": "urban-living",
       "attributes": {
-        "title": "Urban Living",
-        "owner": "Mike Teavee",
-        "city": "Seattle",
+        "title": "Faisal Fayez AlBalooshi",
+        "owner": "HR and Finanace",
+        "city": "417",
         "location": {
           "lat": 47.6062,
           "lng": -122.3321
         },
         "category": "Condo",
-        "bedrooms": 1,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Seattle_-_Barnes_and_Bell_Buildings.jpg",
-        "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+        "bedrooms": "Sr. Computer Specialist",
+        "image": "../assets/images/empty.png",
+        "email": "falbalooshi@lloc.gov.bh",
+        "officenumber": 17518043
       }
     },
     {
       "type": "rentals",
       "id": "downtown-charm",
       "attributes": {
-        "title": "Downtown Charm",
-        "owner": "Violet Beauregarde",
-        "city": "Portland",
+        "title": "Khalifa Adnan Showaiter",
+        "owner": "HR and Finanace",
+        "city": "416",
         "location": {
           "lat": 45.5175,
           "lng": -122.6801
         },
         "category": "Apartment",
-        "bedrooms": 3,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg",
-        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+        "bedrooms": "Sr. Computer Specialist",
+        "image": "../assets/images/empty.png",
+        "email": "khalifa.showaiter@lloc.gov.bh",
+        "officenumber": 17518046
       }
     }
   ]
